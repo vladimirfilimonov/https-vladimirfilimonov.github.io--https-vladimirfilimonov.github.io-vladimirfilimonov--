@@ -7,7 +7,7 @@
 
 .main{
 	height: 100vh;
-	background-image: url(/source/image/space.png);
+	background-image: url('/source/image/space.png');
 	display:flex;
 	justify-content: center;
 	align-items: center;
